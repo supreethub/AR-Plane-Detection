@@ -10,8 +10,8 @@
 # Walkthrough of Solution:
 
 # Demo:  
-1)
-2) Flat Surface Detection:  
+1) Plane Detection without CLAHE Equalization
+2) Plane Detection with CLAHE Equalization:  
    ![data/cactus_plane.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/cactus_plane.gif)
 # Issues:
 
