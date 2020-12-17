@@ -14,5 +14,5 @@
 2) Plane Detection with CLAHE Equalization:  
    ![data/cactus_plane.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/cactus_plane.gif)
 # Issues:
-
+1) The 2nd demo is able to detect flat surfaces but is slow (i.e. non-realtime) and could be improved upon
 # Future Improvements: 
