@@ -28,3 +28,6 @@
 # Issues:
 1) The 2nd demo is able to detect flat surfaces but is slow (i.e. non-realtime) and could be improved upon
 # Future Improvements: 
+1) Integrate fully with web browser via Javascript
+2) Improve the js pipeline to increase fps streaming. Capped at 1-12 fps currently
+3) Implement CLAHE in some regions only to improve speed and fix glare issues
