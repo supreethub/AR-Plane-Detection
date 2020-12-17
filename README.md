@@ -11,6 +11,8 @@
 
 # Demo:  
 1) Plane Detection without CLAHE Equalization
+   ![data/Demo.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/Demo.gif)
+   ![data/Orientation_Demo.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/Orientation_Demo.gif)
 2) Plane Detection with CLAHE Equalization:  
    ![data/cactus_plane.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/cactus_plane.gif)
 # Issues:
