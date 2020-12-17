@@ -10,7 +10,9 @@
 # Walkthrough of Solution:
 
 # Demo:  
-
+1)
+2) Flat Surface Detection:
+  * ![data/cactus_plane.gif]()
 # Issues:
 
 # Future Improvements: 
