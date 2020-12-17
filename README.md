@@ -12,7 +12,7 @@
 # Demo:  
 1)
 2) Flat Surface Detection:
-  * ![data/cactus_plane.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/cactus_plane.gif)
+   ![data/cactus_plane.gif](https://github.com/supreethub/AR-Plane-Detection/blob/main/data/cactus_plane.gif)
 # Issues:
 
 # Future Improvements: 
