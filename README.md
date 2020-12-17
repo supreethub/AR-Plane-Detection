@@ -1,5 +1,5 @@
 # AR-Plane-Detection
-# Problem: To detecting a flat plane in 3D space and placing a 3D object on its surface
+# Problem: To detect a flat plane in 3D space and placing a 3D object on its surface
 
 # Relavent Research:  
 &nbsp;&nbsp;1) SIFT vs ORB vs SURF Feature Detectors: [Paper](https://arxiv.org/abs/1710.02726)  
